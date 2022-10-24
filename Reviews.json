@@ -2,33 +2,37 @@
     {
       "id": "1",
       "body": "First review",
-      "username": "Geon Tack",
+      "stars": 5,
+      "username": "Sarah",
       "userId": "1",
       "parentId": null,
-      "createdAt": "2022-10-16T23:00:33.010+02:00"
+      "createdAt": "2022-10-16"
     },
     {
       "id": "2",
       "body": "Second review",
-      "username": "Yeonie",
+      "stars": 2,
+      "username": "Mark",
       "userId": "2",
       "parentId": null,
-      "createdAt": "2022-10-16T23:00:33.010+02:00"
+      "createdAt": "2022-10-16"
     },
     {
       "id": "3",
       "body": "First comment first child",
+      "stars": 4,
       "username": "John",
       "userId": "2",
       "parentId": "1",
-      "createdAt": "2022-10-16T23:00:33.010+02:00"
+      "createdAt": "2022-10-16"
     },
     {
       "id": "4",
       "body": "Second comment second child",
-      "username": "John",
+      "stars": 3,
+      "username": "Alex",
       "userId": "2",
       "parentId": "2",
-      "createdAt": "2022-10-16T23:00:33.010+02:00"
+      "createdAt": "2022-10-16"
     }
 ]
