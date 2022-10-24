@@ -1,7 +1,7 @@
 [
     {
       "id": "1",
-      "body": "First review",
+      "body": "This tastes good!",
       "stars": 5,
       "username": "Sarah",
       "userId": "1",
@@ -10,7 +10,7 @@
     },
     {
       "id": "2",
-      "body": "Second review",
+      "body": "It was too difficult to make.",
       "stars": 2,
       "username": "Mark",
       "userId": "2",
@@ -19,7 +19,7 @@
     },
     {
       "id": "3",
-      "body": "First comment first child",
+      "body": "Not a bad meal, but too heavy.",
       "stars": 4,
       "username": "John",
       "userId": "2",
@@ -28,7 +28,7 @@
     },
     {
       "id": "4",
-      "body": "Second comment second child",
+      "body": "I enjoyed it, but not my kids.",
       "stars": 3,
       "username": "Alex",
       "userId": "2",
